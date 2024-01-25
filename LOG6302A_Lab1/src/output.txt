@@ -1,0 +1,31 @@
+
+----- Visiting AST from file ./wp-includes/wp-db.php -----
+Function 'mysqli_query' is called at line 830
+Function 'mysql_query' is called at line 840
+Function 'mysqli_query' is called at line 859
+Function 'mysql_query' is called at line 861
+Function 'mysqli_query' is called at line 905
+Function 'mysql_query' is called at line 907
+Function 'mysqli_query' is called at line 1877
+Function 'mysql_query' is called at line 1879
+
+----- Visiting AST from file ./wp-includes/class-snoopy.php -----
+Function 'exec' is called at line 1018
+
+----- Visiting AST from file ./wp-includes/SimplePie/Cache/MySQL.php -----
+Function 'exec' is called at line 130
+Function 'exec' is called at line 139
+Function 'execute' is called at line 168
+Function 'execute' is called at line 188
+Function 'execute' is called at line 200
+Function 'execute' is called at line 217
+Function 'execute' is called at line 239
+Function 'execute' is called at line 257
+Function 'execute' is called at line 265
+Function 'execute' is called at line 276
+Function 'execute' is called at line 300
+Function 'execute' is called at line 346
+Function 'execute' is called at line 378
+Function 'execute' is called at line 403
+Function 'execute' is called at line 429
+Function 'execute' is called at line 429
