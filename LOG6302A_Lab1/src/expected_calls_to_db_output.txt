@@ -8,6 +8,9 @@ Function 'mysql_query' is called at line 907
 Function 'mysqli_query' is called at line 1877
 Function 'mysql_query' is called at line 1879
 
+----- Visiting AST from file ./wp-includes/class-snoopy.php -----
+Function 'exec' is called at line 1018
+
 ----- Visiting AST from file ./wp-includes/SimplePie/Cache/MySQL.php -----
 Function 'exec' is called at line 130
 Function 'exec' is called at line 139

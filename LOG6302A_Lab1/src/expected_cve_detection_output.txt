@@ -1,0 +1,12 @@
+----- CVE-2017-7189 -----
+----- Visiting AST from file ./test_cve/2017_7189.php -----
+Function 'fsockopen' is called at line 9
+
+----- CVE-2019-11039 -----
+----- Visiting AST from file ./test_cve/2019_11039.php -----
+Function 'iconv_mime_decode_headers' is called at line 21
+
+----- CVE-2021-21707 -----
+----- Visiting AST from file code.php -----
+Function 'simplexml_load_file' is called at line 10
+
