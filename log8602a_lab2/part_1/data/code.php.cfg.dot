@@ -1,0 +1,29 @@
+digraph cfg {
+node [shape=none];
+1 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>1</TD><TD border='0'><B>Entry</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>main</TD></TR></TABLE>>];
+1 -> 4 [weight=10];
+2 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded'  color='#880000'><TR><TD border='0'>2</TD><TD border='0'><B>Exit</B></TD></TR></TABLE>>];
+4 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>4</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>mysql_query</TD></TR></TABLE>>];
+4 -> 7 [weight=10];
+5 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded'  color='#880000'><TR><TD border='0'>5</TD><TD border='0'><B>CallBegin</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>mysql_query</TD></TR></TABLE>>];
+5 -> 6 [weight=10;style=dotted];
+5 -> 7 [weight=1;color=purple];
+5 -> 10 [weight=1;color=cyan];
+5 -> 12 [weight=1;color=cyan];
+6 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded'  color='#880000'><TR><TD border='0'>6</TD><TD border='0'><B>CallEnd</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>mysql_query</TD></TR></TABLE>>];
+6 -> 13 [weight=10];
+7 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>7</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>mysql_query</TD></TR></TABLE>>];
+7 -> 8 [weight=10];
+8 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+8 -> 10 [weight=10];
+9 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9</TD><TD border='0'><B>Argument</B></TD></TR></TABLE>>];
+9 -> 12 [weight=10];
+10 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>10</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>SELECT *</TD></TR></TABLE>>];
+10 -> 9 [weight=10];
+11 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>11</TD><TD border='0'><B>Argument</B></TD></TR></TABLE>>];
+11 -> 5 [weight=10];
+12 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>12</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>TEST</TD></TR></TABLE>>];
+12 -> 11 [weight=10];
+13 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded'  color='#880000'><TR><TD border='0'>13</TD><TD border='0'><B>RetValue</B></TD></TR></TABLE>>];
+13 -> 2 [weight=10];
+}
