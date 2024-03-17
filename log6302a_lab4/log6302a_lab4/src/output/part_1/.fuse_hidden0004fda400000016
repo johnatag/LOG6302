@@ -1,0 +1,82 @@
+------------------------ File: ../tp4/part_2/file3.php.cfg.json ------------------------
+------ Visitor: Live Variable 
+Variable error was referenced on lines: {3632, 3633, 683} and defined on lines: {3616, 3620, 3622, 3626, 3628}
+Variable incompatible_modes was referenced on lines: {638, 959} and defined on lines: {956}
+Variable dbh was referenced on lines: {896, 903, 872, 1170, 1171, 884, 1176, 1178, 892, 606} and defined on lines: {1172}
+Variable collate was referenced on lines: {832, 900, 901, 872, 554, 843, 810, 876, 848, 851, 856, 889, 890} and defined on lines: {800, 803, 843, 877, 849, 851, 857, 793, 798}
+Variable charset was referenced on lines: {896, 899, 3332, 2970, 2971, 545, 3237, 810, 3249, 3384, 3001, 3002, 3385, 3389, 832, 837, 3398, 3271, 841, 846, 2896, 2897, 3281, 3033, 3034, 3427, 3430, 872, 873, 2922, 3432, 2925, 3438, 879, 2929, 884, 888} and defined on lines: {2950, 2953, 2960, 2963, 2966, 792, 3224, 796, 807, 3383, 3000, 3393, 838, 842, 2895, 3426, 874, 2926, 3314, 3316}
+Variable global_tables was referenced on lines: {1139, 326} and defined on lines: {1137}
+Variable tables was referenced on lines: {1152, 1156, 293, 1138, 1140, 1109, 1142, 1144, 1147, 1148, 1118, 1151} and defined on lines: {1122, 1125, 1107, 1109, 1113, 1116, 1118}
+Variable base_prefix was referenced on lines: {256, 1140} and defined on lines: {1136}
+Variable queries was referenced on lines: {225, 3331, 3334, 3342} and defined on lines: {3308}
+Variable table_charset was referenced on lines: {3013, 3014, 173, 3062, 3063} and defined on lines: {3012, 3061}
+Variable result was referenced on lines: {1883, 155} and defined on lines: {1881}
+Variable num_rows was referenced on lines: {101, 2129, 2130, 2134, 2135, 2140, 2141} and defined on lines: {2126}
+Variable protected_members was referenced on lines: {757} and defined on lines: {752}
+Variable charset_collate was referenced on lines: {812, 813} and defined on lines: {810}
+Variable set_charset_succeeded was referenced on lines: {898, 887} and defined on lines: {880, 884, 896}
+Variable query was referenced on lines: {890, 892, 901, 903} and defined on lines: {888, 899}
+Variable res was referenced on lines: {937, 931, 926} and defined on lines: {921, 923}
+Variable modes was referenced on lines: {960, 964, 947, 918, 919, 958} and defined on lines: {944, 947}
+Variable modes_array was referenced on lines: {932, 935} and defined on lines: {931}
+Variable modes_str was referenced on lines: {944, 940} and defined on lines: {937, 964, 935}
+Variable old_prefix was referenced on lines: {1016, 1003} and defined on lines: {992, 989}
+Variable old_blog_id was referenced on lines: {1046} and defined on lines: {1033}
+Variable blog_id was referenced on lines: {1057, 1059, 1063, 1065, 1068} and defined on lines: {1060, 1063}
+Variable blog_id was referenced on lines: {1104, 1132, 1135} and defined on lines: {1133}
+Variable blog_prefix was referenced on lines: {1142} and defined on lines: {1135}
+Variable success was referenced on lines: {1180} and defined on lines: {1176, 1178}
+Variable message was referenced on lines: {1217, 1187, 1193, 1194, 1196, 1203, 1209, 1211} and defined on lines: {1185}
+Variable escaped was referenced on lines: {1274} and defined on lines: {1260, 1262, 1271}
+Variable class was referenced on lines: {1269} and defined on lines: {1265}
+Variable data was referenced on lines: {1287, 1288, 1289, 1291, 1293, 1297, 1300} and defined on lines: {1297}
+Variable data was referenced on lines: {1316, 1320, 1321, 1323, 1325, 1329, 1332} and defined on lines: {1329}
+Variable string was referenced on lines: {1344, 1345, 1346} and defined on lines: {1346}
+Variable query was referenced on lines: {1510, 1512, 1454, 1455, 1456, 1458, 1395, 1460, 1396, 1463, 1401} and defined on lines: {1510, 1454, 1455, 1456, 1458, 1460}
+Variable args was referenced on lines: {1509, 1510, 1416, 1418, 1421, 1395, 1465} and defined on lines: {1418}
+Variable placeholders was referenced on lines: {1489, 1467, 1468, 1499} and defined on lines: {1463}
+Variable args_count was referenced on lines: {1490, 1467, 1502} and defined on lines: {1465}
+Variable passed_as_array was referenced on lines: {1468} and defined on lines: {1417, 1415}
+Variable max_numbered_placeholder was referenced on lines: {1502} and defined on lines: {1500}
+Variable str was referenced on lines: {1605, 1576, 1579, 1611, 1552, 1555, 1594, 1564} and defined on lines: {1605, 1557, 1559}
+Variable error_str was referenced on lines: {1582} and defined on lines: {1576, 1579}
+Variable caller was referenced on lines: {1576, 1574} and defined on lines: {1573}
+Variable msg was referenced on lines: {1602, 1599} and defined on lines: {1591}
+Variable query was referenced on lines: {1612} and defined on lines: {1606}
+Variable errors was referenced on lines: {1633} and defined on lines: {1631}
+Variable show was referenced on lines: {1650} and defined on lines: {1648}
+Variable errors was referenced on lines: {1668} and defined on lines: {1666}
+Variable attempt_fallback was referenced on lines: {1778} and defined on lines: {1768, 1771, 1773, 1775}
+Variable client_flags was referenced on lines: {1753, 1756, 1785, 1788} and defined on lines: {1721}
+Variable socket was referenced on lines: {1753, 1756, 1740} and defined on lines: {1735}
+Variable port was referenced on lines: {1753, 1756, 1740} and defined on lines: {1734}
+Variable host was referenced on lines: {1753, 1756, 1740} and defined on lines: {1749, 1733}
+Variable is_ipv6 was referenced on lines: {1740, 1748} and defined on lines: {1736}
+Variable host_data was referenced on lines: {1739, 1740} and defined on lines: {1738}
+Variable message was referenced on lines: {1803, 1810, 1811, 1812, 1813, 1814, 1816, 1822} and defined on lines: {1801}
+Variable new_link was referenced on lines: {1785, 1788} and defined on lines: {1720}
+Variable matches was referenced on lines: {1881, 1890, 1891} and defined on lines: {1880}
+Variable host was referenced on lines: {1858, 1895, 1864, 1866, 1867, 1872, 1881} and defined on lines: {1888, 1867}
+Variable pattern was referenced on lines: {1881} and defined on lines: {1873, 1877}
+Variable socket_pos was referenced on lines: {1865, 1866, 1867} and defined on lines: {1864}
+Variable is_ipv6 was referenced on lines: {1895} and defined on lines: {1874, 1861}
+Variable socket was referenced on lines: {1895} and defined on lines: {1866, 1860}
+Variable port was referenced on lines: {1895} and defined on lines: {1859}
+Variable component was referenced on lines: {1889, 1890, 1891} and defined on lines: {1891}
+Variable error_reporting was referenced on lines: {1938, 1939, 1934, 1927} and defined on lines: {1922, 1926}
+Variable tries was referenced on lines: {1930, 1933} and defined on lines: {1930}
+Variable message was referenced on lines: {1962, 1968, 1969, 1970, 1971, 1973, 1980} and defined on lines: {1960}
+Variable query was referenced on lines: {2016, 2049, 2018, 2051, 2116, 2107, 2029, 2030, 2000, 2034, 2099, 2036, 2075, 2109} and defined on lines: {2016}
+Variable stripped_query was referenced on lines: {2034} and defined on lines: {2030}
+Variable mysql_errno was referenced on lines: {2073} and defined on lines: {2054, 2058, 2062, 2066, 2068}
+Variable return_val was referenced on lines: {2144} and defined on lines: {2108, 2141, 2124}
+Variable row was referenced on lines: {2129, 2134} and defined on lines: {2128, 2133}
+Variable query_data was referenced on lines: {2212, 2205, 2190} and defined on lines: {2205}
+Variable placeholder was referenced on lines: {2224, 2226, 2243} and defined on lines: {2232}
+Variable salt was referenced on lines: {2232} and defined on lines: {2230}
+Variable algo was referenced on lines: {2232} and defined on lines: {2228}
+Variable data was referenced on lines: {2373, 2383, 2359, 2366, 2367} and defined on lines: {2366}
+Variable values was referenced on lines: {2380, 2389} and defined on lines: {2372}
+Variable sql was referenced on lines: {2389} and defined on lines: {2386}
+Variable formats was referenced on lines: {2384, 2379, 2375} and defined on lines: {2384, 2371}
+Variable data was referenced on lines: {2432, 2433, 2444, 2427, 2428} and defined on lines: {2432}
