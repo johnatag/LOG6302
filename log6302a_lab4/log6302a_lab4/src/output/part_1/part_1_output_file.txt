@@ -1,28 +1,28 @@
 ------------------------ File: ../tp4/part_1/wordcount.php.cfg.json ------------------------
 ------ Visitor: Live Variable 
-Variable ni was referenced on lines: {40, 22} and defined on lines: {11, 22}
-Variable nc was referenced on lines: {16, 39} and defined on lines: {16, 10}
-Variable nw was referenced on lines: {32, 38} and defined on lines: {32, 9}
-Variable nl was referenced on lines: {18, 37} and defined on lines: {8, 18}
-Variable c was referenced on lines: {15, 17, 19, 20, 21, 29} and defined on lines: {34, 14}
-Variable fp was referenced on lines: {34, 14} and defined on lines: {13}
-Variable inword was referenced on lines: {30} and defined on lines: {7, 24, 26, 28, 31}
+Variable ni was referenced in nodes: {10852, 10780} and defined in nodes: {10715, 10782}
+Variable nc was referenced in nodes: {10746, 10846} and defined in nodes: {10712, 10748}
+Variable nw was referenced in nodes: {10840, 10817} and defined in nodes: {10819, 10709}
+Variable nl was referenced in nodes: {10834, 10757} and defined in nodes: {10706, 10759}
+Variable c was referenced in nodes: {10752, 10763, 10796, 10800, 10769, 10803, 10741, 10775} and defined in nodes: {10737, 10829}
+Variable fp was referenced in nodes: {10827, 10735} and defined in nodes: {10727}
+Variable inword was referenced in nodes: {10809} and defined in nodes: {10785, 10788, 10791, 10703, 10814}
 
 ------ Visitor: Definition 
-Variable fp with var id 471 was referenced on lines: {34, 14} and defined on lines: {13} 
-Variable c with var id 472 was referenced on lines: {15, 17, 19, 20, 21, 29} and defined on lines: {34, 14} 
-Variable nc with var id 469 was referenced on lines: {16, 39} and defined on lines: {16, 10} 
-Variable nl with var id 467 was referenced on lines: {18, 37} and defined on lines: {8, 18} 
-Variable ni with var id 470 was referenced on lines: {40, 22} and defined on lines: {11, 22} 
-Variable inword with var id 466 was referenced on lines: {30} and defined on lines: {7, 24, 26, 28, 31} 
-Variable nw with var id 468 was referenced on lines: {32, 38} and defined on lines: {32, 9} 
+Variable fp was referenced in nodes: {10827, 10735} and defined in nodes: {10727} 
+Variable c was referenced in nodes: {10752, 10763, 10796, 10800, 10769, 10803, 10741, 10775} and defined in nodes: {10737, 10829} 
+Variable nc was referenced in nodes: {10746, 10846} and defined in nodes: {10712, 10748} 
+Variable nl was referenced in nodes: {10834, 10757} and defined in nodes: {10706, 10759} 
+Variable ni was referenced in nodes: {10852, 10780} and defined in nodes: {10715, 10782} 
+Variable inword was referenced in nodes: {10809} and defined in nodes: {10785, 10788, 10791, 10814, 10703} 
+Variable nw was referenced in nodes: {10840, 10817} and defined in nodes: {10819, 10709} 
 
 ------------------------ File: ../tp4/part_1/test.php.cfg.json ------------------------
 ------ Visitor: Live Variable 
-Variable a was referenced on lines: {8} and defined on lines: {3, 6}
-Variable b was referenced on lines: {5} and defined on lines: {2}
+Variable a was referenced in nodes: {10875} and defined in nodes: {10862, 10871}
+Variable b was referenced in nodes: {10866} and defined in nodes: {10859}
 
 ------ Visitor: Definition 
-Variable b with var id 473 was referenced on lines: {5} and defined on lines: {2} 
-Variable a with var id 474 was referenced on lines: {8} and defined on lines: {6} 
+Variable b was referenced in nodes: {10866} and defined in nodes: {10859} 
+Variable a was referenced in nodes: {10875} and defined in nodes: {10862, 10871} 
 

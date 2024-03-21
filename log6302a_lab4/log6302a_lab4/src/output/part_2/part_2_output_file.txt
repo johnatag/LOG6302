@@ -1,245 +1,248 @@
 ------------------------ File: ../tp4/part_2/file3.php.cfg.json ------------------------
 ------ Visitor: Live Variable 
-Variable time_start was referenced on lines: {674} but was never defined.
-Variable has_connected was referenced on lines: {663} but was never defined.
-Variable use_mysqli was referenced on lines: {654} but was never defined.
-Variable is_mysql was referenced on lines: {629} but was never defined.
-Variable func_call was referenced on lines: {615} but was never defined.
-Variable dbhost was referenced on lines: {700, 717, 590} but was never defined.
-Variable dbname was referenced on lines: {700, 716, 581} but was never defined.
-Variable dbpassword was referenced on lines: {700, 715, 572} but was never defined.
-Variable dbuser was referenced on lines: {714, 563, 700} but was never defined.
-Variable field_types was referenced on lines: {536} but was never defined.
-Variable sitemeta was referenced on lines: {519} but was never defined.
-Variable sitecategories was referenced on lines: {510} but was never defined.
-Variable site was referenced on lines: {501} but was never defined.
-Variable signups was referenced on lines: {492} but was never defined.
-Variable registration_log was referenced on lines: {483} but was never defined.
-Variable blogmeta was referenced on lines: {474} but was never defined.
-Variable blogs was referenced on lines: {465} but was never defined.
-Variable users was referenced on lines: {456} but was never defined.
-Variable usermeta was referenced on lines: {447} but was never defined.
-Variable termmeta was referenced on lines: {434} but was never defined.
-Variable term_taxonomy was referenced on lines: {425} but was never defined.
-Variable term_relationships was referenced on lines: {416} but was never defined.
-Variable terms was referenced on lines: {407} but was never defined.
-Variable posts was referenced on lines: {398} but was never defined.
-Variable postmeta was referenced on lines: {389} but was never defined.
-Variable options was referenced on lines: {380} but was never defined.
-Variable links was referenced on lines: {371} but was never defined.
-Variable commentmeta was referenced on lines: {362} but was never defined.
-Variable comments was referenced on lines: {353} but was never defined.
-Variable ms_global_tables was referenced on lines: {336} but was never defined.
-Variable old_tables was referenced on lines: {316} but was never defined.
-Variable siteid was referenced on lines: {283} but was never defined.
-Variable blogid was referenced on lines: {274} but was never defined.
-Variable ready was referenced on lines: {265} but was never defined.
-Variable prefix was referenced on lines: {995, 1131, 1104, 983, 985, 247, 989} but was never defined.
-Variable reconnect_retries was referenced on lines: {235} but was never defined.
-Variable col_info was referenced on lines: {201} but was never defined.
-Variable checking_collation was referenced on lines: {192} but was never defined.
-Variable check_current_query was referenced on lines: {182} but was never defined.
-Variable col_meta was referenced on lines: {164} but was never defined.
-Variable last_result was referenced on lines: {137} but was never defined.
-Variable last_query was referenced on lines: {128} but was never defined.
-Variable insert_id was referenced on lines: {119} but was never defined.
-Variable rows_affected was referenced on lines: {110} but was never defined.
-Variable num_queries was referenced on lines: {92} but was never defined.
-Variable last_error was referenced on lines: {83} but was never defined.
-Variable suppress_errors was referenced on lines: {74} but was never defined.
-Variable show_errors was referenced on lines: {65} but was never defined.
-Variable this was referenced on lines: {707, 710, 714, 715, 716, 717, 724, 702} but was never defined.
-Variable name was referenced on lines: {736, 740, 735} but was never defined.
-Variable this was referenced on lines: {737, 740} but was never defined.
-Variable name was referenced on lines: {760, 757, 751} but was never defined.
-Variable value was referenced on lines: {760, 751} but was never defined.
-Variable this was referenced on lines: {760} but was never defined.
-Variable name was referenced on lines: {771, 772} but was never defined.
-Variable this was referenced on lines: {772} but was never defined.
-Variable name was referenced on lines: {782, 783} but was never defined.
-Variable this was referenced on lines: {783} but was never defined.
-Variable this was referenced on lines: {810, 812, 813} but was never defined.
-Variable this was referenced on lines: {856, 833, 837, 841} but was never defined.
-Variable this was referenced on lines: {899, 901, 874, 877, 879, 882, 883, 888, 890, 895} but was never defined.
-Variable this was referenced on lines: {930, 966, 967, 969, 920, 921, 923, 956} but was never defined.
-Variable mode was referenced on lines: {958, 959} but was never defined.
-Variable i was referenced on lines: {960, 958} but was never defined.
-Variable set_table_names was referenced on lines: {997, 983} but was never defined.
-Variable this was referenced on lines: {992, 995, 998, 999, 1002, 1006, 1008, 1009, 1012, 1013, 991} but was never defined.
-Variable table was referenced on lines: {998, 999, 1008, 1009, 1012, 1013} but was never defined.
-Variable prefixed_table was referenced on lines: {998, 999, 1008, 1009, 1012, 1013} but was never defined.
-Variable this was referenced on lines: {1030, 1033, 1034, 1036, 1038, 1039, 1042, 1043} but was never defined.
-Variable blog_id was referenced on lines: {1034, 1028} but was never defined.
-Variable network_id was referenced on lines: {1028, 1029, 1030} but was never defined.
-Variable table was referenced on lines: {1042, 1043, 1038, 1039} but was never defined.
-Variable prefixed_table was referenced on lines: {1042, 1043, 1038, 1039} but was never defined.
-Variable this was referenced on lines: {1066, 1060, 1068, 1071} but was never defined.
-Variable this was referenced on lines: {1122, 1125, 1133, 1135, 1136, 1137, 1107, 1109, 1113, 1116, 1118} but was never defined.
-Variable scope was referenced on lines: {1104, 1105} but was never defined.
-Variable k was referenced on lines: {1144, 1138} but was never defined.
-Variable table was referenced on lines: {1138, 1139, 1140, 1142} but was never defined.
-Variable db was referenced on lines: {1190, 1200, 1170, 1206, 1176, 1178} but was never defined.
-Variable this was referenced on lines: {1217, 1199, 1172, 1175, 1181} but was never defined.
-Variable string was referenced on lines: {1235, 1239} but was never defined.
-Variable string was referenced on lines: {1253, 1254, 1260, 1262, 1271} but was never defined.
-Variable this was referenced on lines: {1258, 1259, 1260, 1262, 1265, 1274} but was never defined.
-Variable k was referenced on lines: {1289, 1291, 1293} but was never defined.
-Variable v was referenced on lines: {1289, 1290, 1291, 1293} but was never defined.
-Variable this was referenced on lines: {1297, 1291, 1293} but was never defined.
-Variable k was referenced on lines: {1321, 1323, 1325} but was never defined.
-Variable v was referenced on lines: {1321, 1322, 1323, 1325} but was never defined.
-Variable this was referenced on lines: {1329, 1323, 1325} but was never defined.
-Variable this was referenced on lines: {1346} but was never defined.
-Variable matches was referenced on lines: {1500, 1463} but was never defined.
-Variable arg was referenced on lines: {1429, 1421, 1422} but was never defined.
-Variable args_counts was referenced on lines: {1499} but was never defined.
-Variable this was referenced on lines: {1512, 1509} but was never defined.
-Variable text was referenced on lines: {1538, 1539} but was never defined.
-Variable this was referenced on lines: {1573, 1606, 1576, 1579, 1585, 1556, 1557, 1559, 1595, 1563, 1567} but was never defined.
-Variable EZSQL_ERROR was referenced on lines: {1553, 1562} but was never defined.
-Variable this was referenced on lines: {1632, 1631} but was never defined.
-Variable show was referenced on lines: {1632, 1630} but was never defined.
-Variable this was referenced on lines: {1648, 1649} but was never defined.
-Variable this was referenced on lines: {1666, 1667} but was never defined.
-Variable suppress was referenced on lines: {1665, 1667} but was never defined.
-Variable this was referenced on lines: {1697, 1698, 1677, 1678, 1679, 1680, 1681, 1682, 1684, 1685, 1686, 1689, 1694, 1695} but was never defined.
-Variable allow_bail was referenced on lines: {1792, 1713, 1780} but was never defined.
-Variable this was referenced on lines: {1792, 1807, 1822, 1825, 1826, 1827, 1830, 1832, 1834, 1835, 1836, 1714, 1723, 1731, 1733, 1738, 1753, 1756, 1759, 1760, 1770, 1779, 1780, 1785, 1788} but was never defined.
-Variable this was referenced on lines: {1930, 1933, 1965, 1937, 1912, 1913, 1980, 1917} but was never defined.
-Variable allow_bail was referenced on lines: {1954, 1911} but was never defined.
-Variable this was referenced on lines: {2049, 2051, 2055, 2056, 2057, 2058, 2065, 2066, 2073, 2074, 2075, 2077, 2083, 2084, 2085, 2087, 2090, 2091, 2093, 2097, 2099, 2100, 2103, 2108, 2110, 2111, 2113, 2117, 2118, 2120, 2124, 2127, 2128, 2001, 2002, 2129, 2132, 2133, 2134, 2140, 2019, 2023, 2026, 2029, 2030, 2033, 2035, 2036, 2040, 2046} but was never defined.
-Variable this was referenced on lines: {2158, 2161, 2162, 2163, 2164, 2166, 2169, 2171, 2172, 2173} but was never defined.
-Variable query was referenced on lines: {2164, 2162, 2156, 2170} but was never defined.
-Variable this was referenced on lines: {2207} but was never defined.
-Variable query_start was referenced on lines: {2211, 2205, 2190} but was never defined.
-Variable query_callstack was referenced on lines: {2210, 2205, 2190} but was never defined.
-Variable query_time was referenced on lines: {2209, 2205, 2190} but was never defined.
-Variable query was referenced on lines: {2208, 2205, 2190} but was never defined.
-Variable this was referenced on lines: {2240, 2239} but was never defined.
-Variable query was referenced on lines: {2259, 2254} but was never defined.
-Variable this was referenced on lines: {2259} but was never defined.
-Variable query was referenced on lines: {2270, 2271} but was never defined.
-Variable this was referenced on lines: {2271} but was never defined.
-Variable format was referenced on lines: {2300, 2301} but was never defined.
-Variable data was referenced on lines: {2300, 2301} but was never defined.
-Variable table was referenced on lines: {2300, 2301} but was never defined.
-Variable this was referenced on lines: {2301} but was never defined.
-Variable format was referenced on lines: {2330, 2331} but was never defined.
-Variable data was referenced on lines: {2330, 2331} but was never defined.
-Variable table was referenced on lines: {2330, 2331} but was never defined.
-Variable this was referenced on lines: {2331} but was never defined.
-Variable type was referenced on lines: {2362, 2359} but was never defined.
-Variable this was referenced on lines: {2360, 2388, 2389, 2366} but was never defined.
-Variable format was referenced on lines: {2366, 2359} but was never defined.
-Variable table was referenced on lines: {2366, 2359} but was never defined.
-Variable value was referenced on lines: {2379, 2380, 2373, 2374} but was never defined.
-Variable where_format was referenced on lines: {2427, 2436} but was never defined.
-Variable format was referenced on lines: {2432, 2427} but was never defined.
-Variable table was referenced on lines: {2432, 2427, 2436} but was never defined.
-Variable this was referenced on lines: {2432, 2468, 2436, 2469} but was never defined.
-Variable value was referenced on lines: {2444, 2445, 2450, 2451, 2453, 2454, 2459, 2460} but was never defined.
-Variable field was referenced on lines: {2444, 2453} but was never defined.
-Variable where_format was referenced on lines: {2504, 2499} but was never defined.
-Variable table was referenced on lines: {2504, 2499} but was never defined.
-Variable this was referenced on lines: {2504, 2525, 2526} but was never defined.
-Variable value was referenced on lines: {2512, 2517, 2518, 2511} but was never defined.
-Variable field was referenced on lines: {2511} but was never defined.
-Variable format was referenced on lines: {2546, 2547} but was never defined.
-Variable this was referenced on lines: {2562, 2576, 2547, 2582, 2552, 2557} but was never defined.
-Variable table was referenced on lines: {2552, 2546, 2557} but was never defined.
-Variable field was referenced on lines: {2568, 2569, 2567} but was never defined.
-Variable value was referenced on lines: {2568, 2567} but was never defined.
-Variable data was referenced on lines: {2624, 2609, 2627, 2605} but was never defined.
-Variable format was referenced on lines: {2605, 2606, 2615} but was never defined.
-Variable field was referenced on lines: {2624, 2609, 2620, 2621} but was never defined.
-Variable this was referenced on lines: {2620, 2621} but was never defined.
-Variable value was referenced on lines: {2641, 2642, 2647, 2649, 2650, 2655} but was never defined.
-Variable field was referenced on lines: {2641, 2649, 2655} but was never defined.
-Variable table was referenced on lines: {2640, 2649} but was never defined.
-Variable this was referenced on lines: {2649} but was never defined.
-Variable data was referenced on lines: {2640, 2641, 2658, 2655} but was never defined.
-Variable value was referenced on lines: {2672, 2673, 2678, 2680, 2681, 2686} but was never defined.
-Variable field was referenced on lines: {2680, 2672, 2686} but was never defined.
-Variable table was referenced on lines: {2680, 2671} but was never defined.
-Variable this was referenced on lines: {2680} but was never defined.
-Variable data was referenced on lines: {2672, 2689, 2686, 2671} but was never defined.
-Variable x was referenced on lines: {2707, 2724} but was never defined.
-Variable y was referenced on lines: {2720, 2707, 2719} but was never defined.
-Variable this was referenced on lines: {2720, 2708, 2711, 2712, 2715, 2719} but was never defined.
-Variable query was referenced on lines: {2707, 2715, 2710, 2711} but was never defined.
-Variable query was referenced on lines: {2744, 2745, 2741, 2749} but was never defined.
-Variable this was referenced on lines: {2754, 2759, 2761, 2763, 2766, 2768, 2742, 2745, 2746, 2749} but was never defined.
-Variable y was referenced on lines: {2754, 2759, 2761, 2763, 2766, 2741} but was never defined.
-Variable output was referenced on lines: {2758, 2760, 2762, 2764, 2741} but was never defined.
-Variable this was referenced on lines: {2787, 2788, 2791, 2796, 2797, 2798} but was never defined.
-Variable query was referenced on lines: {2785, 2786, 2787, 2791} but was never defined.
-Variable x was referenced on lines: {2785, 2798} but was never defined.
-Variable query was referenced on lines: {2824, 2825, 2829, 2821} but was never defined.
-Variable this was referenced on lines: {2853, 2822, 2854, 2825, 2826, 2829, 2867, 2837, 2841, 2842} but was never defined.
-Variable output was referenced on lines: {2851, 2821, 2855, 2865, 2835, 2838} but was never defined.
-Variable row was referenced on lines: {2854, 2857, 2860, 2842, 2843, 2846} but was never defined.
-Variable this was referenced on lines: {2918, 2925, 2900, 2901, 2936, 2970, 2909} but was never defined.
-Variable type was referenced on lines: {2932, 2935} but was never defined.
-Variable column was referenced on lines: {2914, 2915, 2920, 2921, 2922, 2932} but was never defined.
-Variable column was referenced on lines: {3000, 2986, 2984} but was never defined.
-Variable table was referenced on lines: {3000, 2985, 3012, 2984} but was never defined.
-Variable this was referenced on lines: {3010, 3012, 3019, 3020, 3024, 3025, 3029, 3033, 3006} but was never defined.
-Variable this was referenced on lines: {3059, 3061, 3067, 3055} but was never defined.
-Variable column was referenced on lines: {3050, 3052} but was never defined.
-Variable table was referenced on lines: {3050, 3051, 3061} but was never defined.
-Variable length was referenced on lines: {3092, 3085} but was never defined.
-Variable string was referenced on lines: {3144, 3139, 3141} but was never defined.
-Variable this was referenced on lines: {3171, 3175, 3180, 3181, 3182, 3190, 3160, 3195} but was never defined.
-Variable col was referenced on lines: {3200, 3195, 3196} but was never defined.
-Variable this was referenced on lines: {3331, 3334, 3323, 3252, 3350, 3351, 3320, 3322, 3319} but was never defined.
-Variable value was referenced on lines: {3329, 3330, 3331, 3334, 3223, 3224, 3226, 3227, 3228, 3242, 3252, 3260, 3261, 3293, 3295, 3296, 3302, 3305, 3309, 3310, 3312, 3316} but was never defined.
-Variable data was referenced on lines: {3363, 3337, 3309, 3220, 3223, 3356, 3358} but was never defined.
-Variable col was referenced on lines: {3337, 3331, 3309, 3334} but was never defined.
-Variable query was referenced on lines: {3347, 3342, 3343} but was never defined.
-Variable column was referenced on lines: {3356, 3342, 3358} but was never defined.
-Variable query was referenced on lines: {3397, 3374, 3376, 3378, 3381, 3390} but was never defined.
-Variable this was referenced on lines: {3393, 3403, 3381, 3383} but was never defined.
-Variable value was referenced on lines: {3429, 3437, 3421, 3422, 3423} but was never defined.
-Variable column was referenced on lines: {3426, 3436, 3439, 3448, 3421} but was never defined.
-Variable table was referenced on lines: {3426, 3421, 3439} but was never defined.
-Variable this was referenced on lines: {3426, 3443, 3439} but was never defined.
-Variable maybe was referenced on lines: {3520, 3518, 3496, 3497, 3479, 3481, 3485, 3486} but was never defined.
-Variable this was referenced on lines: {3532, 3536, 3537, 3539, 3542, 3544} but was never defined.
-Variable this was referenced on lines: {3568, 3562, 3564, 3574} but was never defined.
-Variable col_offset was referenced on lines: {3561, 3565, 3574} but was never defined.
-Variable info_type was referenced on lines: {3561, 3569, 3574} but was never defined.
-Variable col was referenced on lines: {3568, 3569} but was never defined.
-Variable this was referenced on lines: {3587} but was never defined.
-Variable this was referenced on lines: {3599} but was never defined.
-Variable this was referenced on lines: {3618, 3619, 3620, 3625, 3626, 3639, 3641, 3615} but was never defined.
-Variable error_code was referenced on lines: {3614, 3639} but was never defined.
-Variable this was referenced on lines: {3657, 3661, 3662, 3664, 3668, 3669, 3670} but was never defined.
-Variable required_mysql_version was referenced on lines: {3688, 3690, 3686} but was never defined.
-Variable this was referenced on lines: {3688} but was never defined.
-Variable wp_version was referenced on lines: {3690, 3686} but was never defined.
-Variable this was referenced on lines: {3708} but was never defined.
-Variable this was referenced on lines: {3721, 3724} but was never defined.
-Variable db_cap was referenced on lines: {3744, 3747} but was never defined.
-Variable this was referenced on lines: {3745, 3758} but was never defined.
-Variable this was referenced on lines: {3800} but was never defined.
-Variable this was referenced on lines: {3811, 3812, 3814} but was never defined.
+Variable time_start was referenced in nodes: {237} but was never defined.
+Variable has_connected was referenced in nodes: {234} but was never defined.
+Variable use_mysqli was referenced in nodes: {231} but was never defined.
+Variable is_mysql was referenced in nodes: {219} but was never defined.
+Variable func_call was referenced in nodes: {217} but was never defined.
+Variable dbhost was referenced in nodes: {253, 317, 213} but was never defined.
+Variable dbname was referenced in nodes: {312, 211, 251} but was never defined.
+Variable dbpassword was referenced in nodes: {209, 307, 249} but was never defined.
+Variable dbuser was referenced in nodes: {247, 302, 207} but was never defined.
+Variable field_types was referenced in nodes: {200} but was never defined.
+Variable sitemeta was referenced in nodes: {198} but was never defined.
+Variable sitecategories was referenced in nodes: {196} but was never defined.
+Variable site was referenced in nodes: {194} but was never defined.
+Variable signups was referenced in nodes: {192} but was never defined.
+Variable registration_log was referenced in nodes: {190} but was never defined.
+Variable blogmeta was referenced in nodes: {188} but was never defined.
+Variable blogs was referenced in nodes: {186} but was never defined.
+Variable users was referenced in nodes: {184} but was never defined.
+Variable usermeta was referenced in nodes: {182} but was never defined.
+Variable termmeta was referenced in nodes: {180} but was never defined.
+Variable term_taxonomy was referenced in nodes: {178} but was never defined.
+Variable term_relationships was referenced in nodes: {176} but was never defined.
+Variable terms was referenced in nodes: {174} but was never defined.
+Variable posts was referenced in nodes: {172} but was never defined.
+Variable postmeta was referenced in nodes: {170} but was never defined.
+Variable options was referenced in nodes: {168} but was never defined.
+Variable links was referenced in nodes: {166} but was never defined.
+Variable commentmeta was referenced in nodes: {164} but was never defined.
+Variable comments was referenced in nodes: {162} but was never defined.
+Variable ms_global_tables was referenced in nodes: {152} but was never defined.
+Variable old_tables was referenced in nodes: {141} but was never defined.
+Variable siteid was referenced in nodes: {125} but was never defined.
+Variable blogid was referenced in nodes: {122} but was never defined.
+Variable ready was referenced in nodes: {119} but was never defined.
+Variable prefix was referenced in nodes: {1184, 1509, 1224, 1198, 114, 1619, 1245} but was never defined.
+Variable reconnect_retries was referenced in nodes: {111} but was never defined.
+Variable col_info was referenced in nodes: {107} but was never defined.
+Variable checking_collation was referenced in nodes: {104} but was never defined.
+Variable check_current_query was referenced in nodes: {101} but was never defined.
+Variable col_meta was referenced in nodes: {95} but was never defined.
+Variable last_result was referenced in nodes: {91} but was never defined.
+Variable last_query was referenced in nodes: {89} but was never defined.
+Variable insert_id was referenced in nodes: {86} but was never defined.
+Variable rows_affected was referenced in nodes: {83} but was never defined.
+Variable num_queries was referenced in nodes: {77} but was never defined.
+Variable last_error was referenced in nodes: {74} but was never defined.
+Variable suppress_errors was referenced in nodes: {71} but was never defined.
+Variable show_errors was referenced in nodes: {68} but was never defined.
+Variable this was referenced in nodes: {261, 282, 299, 334, 304, 309, 314, 319} but was never defined.
+Variable name was referenced in nodes: {346, 364, 351} but was never defined.
+Variable this was referenced in nodes: {354, 363} but was never defined.
+Variable name was referenced in nodes: {370, 387, 399} but was never defined.
+Variable value was referenced in nodes: {396, 372} but was never defined.
+Variable this was referenced in nodes: {398} but was never defined.
+Variable name was referenced in nodes: {405, 415} but was never defined.
+Variable this was referenced in nodes: {414} but was never defined.
+Variable name was referenced in nodes: {428, 422} but was never defined.
+Variable this was referenced in nodes: {427} but was never defined.
+Variable this was referenced in nodes: {531, 524, 507} but was never defined.
+Variable this was referenced in nodes: {546, 583, 551, 561, 667, 604} but was never defined.
+Variable this was referenced in nodes: {737, 769, 900, 839, 744, 872, 812, 784, 720, 927} but was never defined.
+Variable this was referenced in nodes: {1152, 996, 969, 1162, 1107, 980, 1015, 1176} but was never defined.
+Variable mode was referenced in nodes: {1115, 1124} but was never defined.
+Variable i was referenced in nodes: {1136, 1114} but was never defined.
+Variable set_table_names was referenced in nodes: {1186, 1251} but was never defined.
+Variable this was referenced in nodes: {1256, 1288, 1323, 1296, 1328, 1235, 1270, 1304, 1241, 1309, 1342, 1247} but was never defined.
+Variable table was referenced in nodes: {1318, 1324, 1265, 1271, 1337, 1343} but was never defined.
+Variable prefixed_table was referenced in nodes: {1319, 1321, 1266, 1268, 1338, 1340} but was never defined.
+Variable this was referenced in nodes: {1411, 1380, 1384, 1416, 1392, 1397, 1430, 1370, 1374} but was never defined.
+Variable blog_id was referenced in nodes: {1378, 1351} but was never defined.
+Variable network_id was referenced in nodes: {1368, 1353, 1364} but was never defined.
+Variable table was referenced in nodes: {1425, 1412, 1406, 1431} but was never defined.
+Variable prefixed_table was referenced in nodes: {1409, 1426, 1428, 1407} but was never defined.
+Variable this was referenced in nodes: {1458, 1499, 1492, 1487} but was never defined.
+Variable this was referenced in nodes: {1601, 1570, 1633, 1609, 1656, 1645, 1553, 1562, 1526, 1592, 1530, 1660, 1628} but was never defined.
+Variable scope was referenced in nodes: {1506, 1516} but was never defined.
+Variable k was referenced in nodes: {1667, 1703} but was never defined.
+Variable table was referenced in nodes: {1697, 1668, 1677, 1687, 1690, 1694} but was never defined.
+Variable db was referenced in nodes: {1956, 1989, 1765, 1800, 1810, 1886} but was never defined.
+Variable this was referenced in nodes: {2029, 1940, 1782, 1788, 1823} but was never defined.
+Variable string was referenced in nodes: {2045, 2085} but was never defined.
+Variable string was referenced in nodes: {2092, 2130, 2198, 2102, 2140} but was never defined.
+Variable this was referenced in nodes: {2116, 2154, 2127, 2203, 2110, 2143} but was never defined.
+Variable k was referenced in nodes: {2232, 2258, 2272} but was never defined.
+Variable v was referenced in nodes: {2233, 2242, 2268, 2254} but was never defined.
+Variable this was referenced in nodes: {2275, 2261, 2247} but was never defined.
+Variable k was referenced in nodes: {2339, 2383, 2367} but was never defined.
+Variable v was referenced in nodes: {2377, 2361, 2340, 2349} but was never defined.
+Variable this was referenced in nodes: {2354, 2386, 2370} but was never defined.
+Variable this was referenced in nodes: {2420} but was never defined.
+Variable matches was referenced in nodes: {2696, 2802, 2821} but was never defined.
+Variable arg was referenced in nodes: {2568, 2548, 2606, 2559} but was never defined.
+Variable args_counts was referenced in nodes: {2788} but was never defined.
+Variable this was referenced in nodes: {2864, 2847} but was never defined.
+Variable text was referenced in nodes: {2878, 2886} but was never defined.
+Variable this was referenced in nodes: {2947, 2918, 3067, 3016, 2991, 2960, 2930, 3032, 2938, 2907, 3133} but was never defined.
+Variable EZSQL_ERROR was referenced in nodes: {2898, 2943} but was never defined.
+Variable this was referenced in nodes: {3169, 3175} but was never defined.
+Variable show was referenced in nodes: {3165, 3173} but was never defined.
+Variable this was referenced in nodes: {3185, 3191} but was never defined.
+Variable this was referenced in nodes: {3204, 3212} but was never defined.
+Variable suppress was referenced in nodes: {3200, 3210} but was never defined.
+Variable this was referenced in nodes: {3328, 3233, 3269, 3238, 3307, 3275, 3243, 3339, 3248, 3254, 3287, 3223, 3318, 3258, 3228, 3293} but was never defined.
+Variable allow_bail was referenced in nodes: {3347, 3595, 3661} but was never defined.
+Variable this was referenced in nodes: {3584, 3588, 3844, 3848, 3474, 3858, 3861, 3352, 3736, 3480, 3609, 3484, 3613, 3869, 3617, 3875, 3878, 3625, 3886, 3503, 3636, 3509, 3894, 3640, 3513, 3898, 3387, 3644, 3652, 3528, 3659, 3406, 3535, 3410, 3543, 3424, 3432, 3823, 3837} but was never defined.
+Variable this was referenced in nodes: {4355, 4100, 4164, 4073, 4110, 4083, 4180, 4153, 4282, 4059} but was never defined.
+Variable allow_bail was referenced in nodes: {4228, 4054} but was never defined.
+Variable this was referenced in nodes: {4481, 4867, 4871, 4617, 4747, 4750, 4881, 4626, 4499, 4863, 4885, 4506, 4638, 4511, 4382, 4514, 4899, 4388, 4645, 4774, 4652, 4908, 4791, 4536, 4664, 4920, 4412, 4668, 4543, 4417, 4802, 4550, 4806, 4680, 4934, 4427, 4943, 4816, 4433, 4562, 4691, 4820, 4437, 4951, 4703, 4449, 4578, 4707, 4838, 4460, 4590, 4719, 4849, 4724, 4853, 4731, 4476, 4607} but was never defined.
+Variable this was referenced in nodes: {5027, 4996, 5093, 5000, 5065, 5041, 4978, 5011, 5075, 5045, 5049, 5017, 5084} but was never defined.
+Variable query was referenced in nodes: {5072, 4963, 5038, 5014} but was never defined.
+Variable this was referenced in nodes: {5141} but was never defined.
+Variable query_start was referenced in nodes: {5137, 5109, 5129} but was never defined.
+Variable query_callstack was referenced in nodes: {5136, 5107, 5127} but was never defined.
+Variable query_time was referenced in nodes: {5105, 5125, 5135} but was never defined.
+Variable query was referenced in nodes: {5123, 5134, 5103} but was never defined.
+Variable this was referenced in nodes: {5232, 5245} but was never defined.
+Variable query was referenced in nodes: {5257, 5276} but was never defined.
+Variable this was referenced in nodes: {5268} but was never defined.
+Variable query was referenced in nodes: {5283, 5302} but was never defined.
+Variable this was referenced in nodes: {5292} but was never defined.
+Variable format was referenced in nodes: {5328, 5313} but was never defined.
+Variable data was referenced in nodes: {5326, 5311} but was never defined.
+Variable table was referenced in nodes: {5324, 5309} but was never defined.
+Variable this was referenced in nodes: {5317} but was never defined.
+Variable format was referenced in nodes: {5356, 5341} but was never defined.
+Variable data was referenced in nodes: {5354, 5339} but was never defined.
+Variable table was referenced in nodes: {5352, 5337} but was never defined.
+Variable this was referenced in nodes: {5345} but was never defined.
+Variable type was referenced in nodes: {5394, 5372} but was never defined.
+Variable this was referenced in nodes: {5408, 5377, 5511, 5515, 5523} but was never defined.
+Variable format was referenced in nodes: {5369, 5419} but was never defined.
+Variable table was referenced in nodes: {5365, 5415} but was never defined.
+Variable value was referenced in nodes: {5449, 5466, 5460, 5439} but was never defined.
+Variable where_format was referenced in nodes: {5612, 5549} but was never defined.
+Variable format was referenced in nodes: {5546, 5588} but was never defined.
+Variable table was referenced in nodes: {5584, 5540, 5608} but was never defined.
+Variable this was referenced in nodes: {5601, 5736, 5577, 5740, 5748} but was never defined.
+Variable value was referenced in nodes: {5696, 5665, 5636, 5702, 5673, 5646, 5683, 5659} but was never defined.
+Variable field was referenced in nodes: {5672, 5635} but was never defined.
+Variable where_format was referenced in nodes: {5769, 5798} but was never defined.
+Variable table was referenced in nodes: {5794, 5765} but was never defined.
+Variable this was referenced in nodes: {5874, 5882, 5787, 5870} but was never defined.
+Variable value was referenced in nodes: {5848, 5842, 5819, 5829} but was never defined.
+Variable field was referenced in nodes: {5818} but was never defined.
+Variable format was referenced in nodes: {5915, 5903} but was never defined.
+Variable this was referenced in nodes: {6083, 6053, 5928, 5906, 5972, 5950} but was never defined.
+Variable table was referenced in nodes: {5937, 5899, 5959} but was never defined.
+Variable field was referenced in nodes: {6002, 6005, 5994} but was never defined.
+Variable value was referenced in nodes: {5995, 5999} but was never defined.
+Variable data was referenced in nodes: {6185, 6107, 6188, 6094} but was never defined.
+Variable format was referenced in nodes: {6096, 6100, 6126} but was never defined.
+Variable field was referenced in nodes: {6178, 6186, 6170, 6108} but was never defined.
+Variable this was referenced in nodes: {6168, 6176} but was never defined.
+Variable value was referenced in nodes: {6208, 6213, 6246, 6219, 6253, 6201, 6235} but was never defined.
+Variable field was referenced in nodes: {6232, 6200, 6256} but was never defined.
+Variable table was referenced in nodes: {6196, 6230} but was never defined.
+Variable this was referenced in nodes: {6223} but was never defined.
+Variable data was referenced in nodes: {6194, 6255, 6258, 6199} but was never defined.
+Variable value was referenced in nodes: {6305, 6278, 6283, 6316, 6289, 6323, 6271} but was never defined.
+Variable field was referenced in nodes: {6270, 6326, 6302} but was never defined.
+Variable table was referenced in nodes: {6266, 6300} but was never defined.
+Variable this was referenced in nodes: {6293} but was never defined.
+Variable data was referenced in nodes: {6264, 6269, 6328, 6325} but was never defined.
+Variable x was referenced in nodes: {6432, 6337, 6442, 6438} but was never defined.
+Variable y was referenced in nodes: {6416, 6340, 6396} but was never defined.
+Variable this was referenced in nodes: {6371, 6374, 6345, 6414, 6355, 6358, 6394} but was never defined.
+Variable query was referenced in nodes: {6365, 6381, 6349, 6334} but was never defined.
+Variable query was referenced in nodes: {6464, 6449, 6480, 6496} but was never defined.
+Variable this was referenced in nodes: {6560, 6625, 6529, 6592, 6470, 6535, 6473, 6574, 6511, 6548, 6486, 6614, 6489, 6620, 6460} but was never defined.
+Variable y was referenced in nodes: {6562, 6531, 6594, 6537, 6576, 6513, 6550, 6455, 6616, 6622} but was never defined.
+Variable output was referenced in nodes: {6567, 6541, 6606, 6452, 6522} but was never defined.
+Variable this was referenced in nodes: {6668, 6719, 6671, 6706, 6652, 6686, 6655} but was never defined.
+Variable query was referenced in nodes: {6678, 6662, 6646, 6639} but was never defined.
+Variable x was referenced in nodes: {6728, 6642} but was never defined.
+Variable query was referenced in nodes: {6754, 6770, 6742, 6786} but was never defined.
+Variable this was referenced in nodes: {6816, 6760, 6763, 6801, 6932, 6871, 6776, 6810, 6779, 6750, 6879} but was never defined.
+Variable output was referenced in nodes: {6886, 6797, 6926, 6863, 6866, 6805, 6745} but was never defined.
+Variable row was referenced in nodes: {6881, 6818, 6913, 6854, 6826, 6901} but was never defined.
+Variable this was referenced in nodes: {7203, 6984, 7087, 6992, 7031, 7131, 7326} but was never defined.
+Variable type was referenced in nodes: {7185, 7170} but was never defined.
+Variable column was referenced in nodes: {7104, 7080, 7118, 7093, 7166, 7068, 7070} but was never defined.
+Variable column was referenced in nodes: {7338, 7356, 7372} but was never defined.
+Variable table was referenced in nodes: {7346, 7370, 7336, 7422} but was never defined.
+Variable this was referenced in nodes: {7392, 7456, 7494, 7470, 7408, 7415, 7448, 7516, 7479} but was never defined.
+Variable this was referenced in nodes: {7586, 7563, 7579, 7620} but was never defined.
+Variable column was referenced in nodes: {7533, 7551} but was never defined.
+Variable table was referenced in nodes: {7593, 7531, 7541} but was never defined.
+Variable length was referenced in nodes: {7704, 7716} but was never defined.
+Variable string was referenced in nodes: {7786, 7766, 7802} but was never defined.
+Variable this was referenced in nodes: {7904, 7938, 7818, 7853, 7949, 7887, 7891, 7867} but was never defined.
+Variable col was referenced in nodes: {7952, 7977, 7962} but was never defined.
+Variable this was referenced in nodes: {8360, 8425, 8338, 8403, 8343, 8472, 8091, 8476, 8349} but was never defined.
+Variable value was referenced in nodes: {8064, 8323, 8332, 8087, 8218, 8222, 8099, 8238, 8253, 8381, 8133, 8006, 8263, 8009, 8396, 8269, 8146, 8021, 8277, 8154, 8028, 8413, 8289, 8037, 8300, 8435, 8315} but was never defined.
+Variable data was referenced in nodes: {8004, 8553, 8557, 7998, 8531, 8446, 8287} but was never defined.
+Variable col was referenced in nodes: {8288, 8440, 8418, 8447} but was never defined.
+Variable query was referenced in nodes: {8456, 8465, 8460} but was never defined.
+Variable column was referenced in nodes: {8554, 8533, 8455} but was never defined.
+Variable query was referenced in nodes: {8648, 8590, 8563, 8600, 8571, 8639} but was never defined.
+Variable this was referenced in nodes: {8609, 8593, 8658, 8642} but was never defined.
+Variable value was referenced in nodes: {8707, 8711, 8749, 8697, 8732} but was never defined.
+Variable column was referenced in nodes: {8746, 8723, 8695, 8763, 8795} but was never defined.
+Variable table was referenced in nodes: {8721, 8693, 8761} but was never defined.
+Variable this was referenced in nodes: {8768, 8714, 8754} but was never defined.
+Variable maybe was referenced in nodes: {8865, 8929, 8900, 8972, 8880, 8914, 8987, 8895} but was never defined.
+Variable this was referenced in nodes: {9060, 9094, 8999, 9006, 9044, 9017, 9049, 9087} but was never defined.
+Variable this was referenced in nodes: {9140, 9109, 9158, 9119} but was never defined.
+Variable col_offset was referenced in nodes: {9160, 9105, 9127} but was never defined.
+Variable info_type was referenced in nodes: {9161, 9146, 9102} but was never defined.
+Variable col was referenced in nodes: {9145, 9142} but was never defined.
+Variable this was referenced in nodes: {9176} but was never defined.
+Variable this was referenced in nodes: {9195} but was never defined.
+Variable this was referenced in nodes: {9218, 9225, 9265, 9237, 9341, 9336, 9209, 9277} but was never defined.
+Variable error_code was referenced in nodes: {9331, 9204} but was never defined.
+Variable this was referenced in nodes: {9384, 9353, 9361, 9395, 9400, 9372, 9405} but was never defined.
+Variable required_mysql_version was referenced in nodes: {9433, 9465, 9415} but was never defined.
+Variable this was referenced in nodes: {9425} but was never defined.
+Variable wp_version was referenced in nodes: {9414, 9463} but was never defined.
+Variable this was referenced in nodes: {9486} but was never defined.
+Variable this was referenced in nodes: {9512, 9529} but was never defined.
+Variable db_cap was referenced in nodes: {9562, 9543} but was never defined.
+Variable this was referenced in nodes: {9546, 9619} but was never defined.
+Variable this was referenced in nodes: {9740} but was never defined.
+Variable this was referenced in nodes: {9778, 9755, 9766} but was never defined.
 
 ------ Visitor: Definition 
-Variable allowed_format with var id 126 was defined at line: {1445}, but was never referenced
-Variable fields with var id 212 was defined at line: {2383}, but was never referenced
-Variable length with var id 304 was defined at line: {3077}, but was never referenced
-Variable connection_charset with var id 320 was defined at line: {3325}, but was never referenced
-Variable querry with var id 336 was defined at line: {3464}, but was never referenced
+Variable allowed_format was defined in nodes: {2614} but was never referenced. 
+Variable fields was defined in nodes: {5492} but was never referenced. 
+Variable length was defined in nodes: {7687} but was never referenced. 
+Variable connection_charset was defined in nodes: {8345} but was never referenced. 
+Variable querry was defined in nodes: {8826} but was never referenced. 
+
 ------------------------ File: ../tp4/part_2/file2.php.cfg.json ------------------------
 ------ Visitor: Live Variable 
-Variable meta_type was referenced on lines: {3, 4, 12, 14} but was never defined.
-Variable single was referenced on lines: {3} but was never defined.
-Variable meta_key was referenced on lines: {16, 3} but was never defined.
-Variable simgle was referenced on lines: {19} but was never defined.
+Variable meta_type was referenced in nodes: {9792, 9845, 9805, 9861} but was never defined.
+Variable single was referenced in nodes: {9799} but was never defined.
+Variable meta_key was referenced in nodes: {9796, 9870} but was never defined.
+Variable simgle was referenced in nodes: {9876} but was never defined.
 
 ------ Visitor: Definition 
+
 ------------------------ File: ../tp4/part_2/file1.php.cfg.json ------------------------
 ------ Visitor: Live Variable 
-Variable filename was referenced on lines: {3, 4} but was never defined.
+Variable filename was referenced in nodes: {9890, 9898} but was never defined.
 
 ------ Visitor: Definition 
+

@@ -1,6 +1,8 @@
 ------------------------ File: ../tp4/part_3/file.php.cfg.json ------------------------
 ------ Visitor: Definition 
-Arguments for prepare_query: [('username', 461), ('user_id', 460)]
-Protected arguments using filter_var: {('user_id', 449): 10482, ('password', 450): 10495, ('mail', 456): 10555, ('user_id', 455): 10569, ('user_id', 460): 10628, ('username', 461): 10640}
-The following prepare_query arguments are not protected by filter_var:
-
+prepare_query's argument 'password' at line 741 was filtered by filter_var at line 739
+prepare_query's argument 'user_id' at line 741 was filtered by filter_var at line 738
+prepare_query's argument 'mail' at line 753 was filtered by filter_var at line 749
+prepare_query's argument 'user_id' at line 753 was filtered by filter_var at line 750
+prepare_query's argument 'username' at line 762 was filtered by filter_var at line 760
+prepare_query's argument 'user_id' at line 762 was filtered by filter_var at line 759
