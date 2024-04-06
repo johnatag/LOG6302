@@ -251,3 +251,5 @@ Temporary Items
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
 
+# Ignore output files
+log6302a_lab6/log6302a_lab6/extracted_ast
